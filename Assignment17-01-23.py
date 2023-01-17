@@ -6,7 +6,7 @@ def solution(n):
   for i in range(n):
     if n % pow(2,i) = = 0:
       if res < i:
-        res=1
+        res=i
   return res
 print(solution(24))
 
