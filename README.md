@@ -12,3 +12,8 @@ output=[0,1]
 
 ##### Assignment 17-01-23
 1. Query to display difference of latest and second latest record inserted in the table.of each event_type. 
+
+2. Write a program to display the highest power of 2 that is divides the given number zero.
+    input   : 24
+    output  : 3
+    explaination : pow(2,3) = 8, 24 % 8 == 0
